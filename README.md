@@ -2,7 +2,7 @@
 
 This project aims to build a predictive model for estimating the fare of taxi journeys based on a given set of attributes. The project follows the CRISP-DM methodology and is structured as a Jupyter notebook.
 
-## Background
+## Task
 
 As a Data Scientist employed by a local taxi company, you have been provided with a training dataset that contains information about past taxi journeys in the Bournemouth area. Each data instance in the training set is labeled with the fare in GBP charged for the journey. The goal of this project is to develop a model that can accurately estimate the fare of new taxi journeys based on the same attributes.
 

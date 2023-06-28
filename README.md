@@ -27,18 +27,15 @@ For predictive modelling, you will be using either the Google Colab or Jupyter n
 
 ## Intended Learning Outcomes (ILOs)
 
-
-This is a README file on GitHub. Here are the bullet points added to each part:
-
-Data Exploration and Preprocessing:
+-Data Exploration and Preprocessing:
   Gain experience in exploring and understanding the given dataset.
   Handle missing values.
   Perform necessary preprocessing steps such as data cleaning, feature engineering, and feature selection.
-Predictive Modeling:
+-Predictive Modeling:
   Apply various machine learning algorithms and techniques for regression.
   Develop a predictive model for estimating the taxi fare.
   Involve model selection, parameter tuning, and evaluation using appropriate metrics.
-Feature Importance and Interpretability:
+-Feature Importance and Interpretability:
   Analyze the importance of different features in the predictive model.
   Understand their impact on the fare estimation.
   Identify the key factors that influence the fare and provide interpretability to the model.

@@ -21,10 +21,6 @@ booster_seat: Whether a booster seat was requested or not.
 large_luggage: Whether the passenger(s) carried a large piece of luggage or not.
 The target attribute that needs to be predicted is called fare.
 
-## Modelling Tool
-
-For predictive modelling, you will be using either the Google Colab or Jupyter notebook environment, as introduced in the labs. The Jupyter notebook you develop will be the core of your submission for this assignment. Additionally, you will need to upload your predictions to a model checker provided on Kaggle.
-
 ## Intended Learning Outcomes (ILOs)
 
 - Data Exploration and Preprocessing:

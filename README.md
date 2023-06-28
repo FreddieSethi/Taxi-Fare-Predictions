@@ -24,3 +24,11 @@ The target attribute that needs to be predicted is called fare.
 ## Modelling Tool
 
 For predictive modelling, you will be using either the Google Colab or Jupyter notebook environment, as introduced in the labs. The Jupyter notebook you develop will be the core of your submission for this assignment. Additionally, you will need to upload your predictions to a model checker provided on Kaggle.
+
+## Intended Learning Outcomes (ILOs)
+
+Data Exploration and Preprocessing: Gain experience in exploring and understanding the given dataset, handling missing values, and performing necessary preprocessing steps such as data cleaning, feature engineering, and feature selection.
+Predictive Modeling: Apply various machine learning algorithms and techniques for regression to develop a predictive model for estimating the taxi fare. This involves model selection, parameter tuning, and evaluation using appropriate metrics.
+Feature Importance and Interpretability: Analyze the importance of different features in the predictive model and understand their impact on the fare estimation. This helps in identifying the key factors that influence the fare and provides interpretability to the model.
+Model Evaluation and Optimization: Evaluate the performance of the developed model using appropriate evaluation metrics and compare the results with other submissions in the Kaggle competition. Use the insights gained from the evaluation to further optimize the model and improve its accuracy.
+Communication and Documentation: Present the findings, methodology, and results of the project in a clear and concise manner using a Jupyter notebook. Effectively communicate the steps taken, the rationale behind decisions made, and the overall approach followed during the project.

@@ -1,6 +1,6 @@
 # Taxi-Fare-Predictions
 
-This project aims to build a predictive model for estimating the fare of taxi journeys based on a given set of attributes. The project follows the CRISP-DM methodology and is structured as a Jupyter notebook.
+This project focuses on developing a predictive model using the CRISP-DM methodology to estimate the fare of taxi journeys based on a set of attributes. The main objective is to build a Jupyter notebook that outlines the data exploration, preprocessing, modeling, and evaluation steps. The project also involves participating in a Kaggle competition, where the developed model will be assessed against other submissions. The ultimate goal is to create an accurate and reliable predictive model for estimating taxi fares.
 
 ## Task
 
